@@ -1,60 +1,45 @@
-# 👋 Hi, I'm Deepika J
+# Hi, I'm Deepika 👋
 
-🤖 AI & ML Enthusiast  
-💡 Passionate about building real-world intelligent systems  
+**Full Stack Developer | AI & ML Enthusiast**
 
 ---
 
-## 🚀 About Me
-- Interested in Machine Learning, NLP & Computer Vision  
-- Currently learning Deep Learning & LLMs  
-- Love solving problems and building projects  
+## 🔹 About Me
+- I enjoy building end-to-end applications combining frontend, backend, and intelligent systems  
+- Interested in solving real-world problems using AI and data-driven approaches  
+- Strong interest in hands-on projects and practical implementation  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Java, Python, C, JavaScript  
-
-**Frontend:**  
-React.js, HTML, CSS, Tailwind CSS, Bootstrap  
-
-**Backend:**  
-Node.js, Django, REST APIs  
-
-**Database:**  
-MySQL, MongoDB  
-
-**AI/ML:**  
-Scikit-learn, Pandas, NumPy, Matplotlib  
-
-**Tools:**  
-Git, VS Code, Power BI  
+### 💻 Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ---
 
-## 📌 Projects
-
-### 🏠 Real Estate Marketplace
-- MERN Stack application  
-- Secure authentication using JWT  
-- CRUD operations & user dashboard  
-
-🔗 [https://github.com/YOUR_USERNAME/project-link  ](https://github.com/deepikaj2006/mern-estate/tree/master)
+### ⚙️ Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ---
 
-### 🛡️ Intelligent Threat Detection System
-- Built using Python, Django, PyTorch  
-- Real-time image classification (MobileNetV2)  
-- User-friendly monitoring interface  
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-🔗 [https://github.com/YOUR_USERNAME/project-link  
-](https://github.com/Harini-Moorthi/Threat-detector)
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: deepikajaganathan283@gmail.com 
+## 🌐 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/deepika-j-474a93378/
-- 💻 GitHub: [https://github.com/YOUR_USERNAME  ](https://github.com/deepikaj2006)
+- 📧 Email: deepikajaganathan283@gmail.com 
