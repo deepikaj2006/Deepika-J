@@ -41,7 +41,7 @@ Git, VS Code, Power BI
 - Secure authentication using JWT  
 - CRUD operations & user dashboard  
 
-🔗 https://github.com/YOUR_USERNAME/project-link  
+🔗 [https://github.com/YOUR_USERNAME/project-link  ](https://github.com/deepikaj2006/mern-estate/tree/master)
 
 ---
 
@@ -50,16 +50,11 @@ Git, VS Code, Power BI
 - Real-time image classification (MobileNetV2)  
 - User-friendly monitoring interface  
 
-🔗 https://github.com/YOUR_USERNAME/project-link  
-
----
-
-## 📊 GitHub Stats
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
+🔗 [https://github.com/YOUR_USERNAME/project-link  
+](https://github.com/Harini-Moorthi/Threat-detector)
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@gmail.com  
-- 🔗 LinkedIn: your-link  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: deepikajaganathan283@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/deepika-j-474a93378/
+- 💻 GitHub: [https://github.com/YOUR_USERNAME  ](https://github.com/deepikaj2006)
